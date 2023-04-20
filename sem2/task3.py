@@ -28,4 +28,3 @@ for i in range(watermelon):
         min_weight = weight 
         min_i = i
 print(f'min {min_weight} {min_i + 1}  max {max_weight} {max_i + 1}')
-#
